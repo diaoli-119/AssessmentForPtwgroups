@@ -1,0 +1,11 @@
+.background {
+  font-family: sans-serif;
+  /* background: #1a1a1a; */
+  margin: 10px 0 10px 0;
+}
+
+.position{
+  width: 30%;
+  margin: auto;
+  padding-top: 1%;
+}
